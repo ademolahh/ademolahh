@@ -1,4 +1,4 @@
-👋 I am Ademola Oladipo
+👋 I am Ademola
 
 🌱 I love Solidity, building and coding projects
 
