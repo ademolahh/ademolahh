@@ -16,7 +16,6 @@ My work centers around **writing smart contracts** in Solidity—primarily using
 ![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Foundry](https://img.shields.io/badge/-Foundry-black?style=flat-square&logo=foundry&logoColor=white)
 
 ---
 
