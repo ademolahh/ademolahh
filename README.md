@@ -2,7 +2,7 @@
 
 A detail-oriented and passionate **Solidity smart contract developer** focused on building decentralized applications and blockchain infrastructure. I enjoy solving real problems with code, designing efficient systems, and pushing the boundaries of Web3.
 
-My work centers around **writing smart contracts** in Solidity—primarily using the **Foundry** framework—and building backend systems. I'm proficient in **Go**, **TypeScript**, **Node.js**, **Express**, and AWS services like **DynamoDB** and **S3**. I focus on clean architecture, performance, and scalability, and I’m always eager to explore new technologies and tackle complex problems in fast-evolving environments.
+My work centers around **writing smart contracts** in Solidity—primarily using the **Foundry** framework—and building backend systems. I'm proficient in **Go**, **TypeScript**, **Node.js**, **Express**, and AWS services like **EC2**, **DynamoDB** and **S3**. I focus on clean architecture, performance, and scalability, and I’m always eager to explore new technologies and tackle complex problems in fast-evolving environments.
 
 ## 🛠️ Tech Stack
 
