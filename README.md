@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ademola
 
-Software developer with experience across backend systems and blockchain. I enjoy solving real problems with clean, scalable code.
+Software developer with a strong foundation in mathematics, experienced across backend systems and blockchain. I enjoy solving real problems with clean, scalable code.
 
 ## 🛠️ Tech Stack
 
