@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ademola
 
-I build backend and distributed systems, and work on on-chain protocols.
-
-Most of it comes down to the same problem: keeping a system correct under load and useful when parts of it fail. I like clear boundaries, tests that mean something, and code that still reads well a year later. When I'm not building, I'm usually reading protocol source or writing about systems.
+I'm a backend and distributed-systems engineer who works on on-chain protocols, with a strong interest in infrastructure development.
 
 ## 🛠️ Tech Stack
 
